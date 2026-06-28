@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# TensorFlow / Keras
+*.h5
+*.keras
+
+# OS
+.DS_Store
+Thumbs.db
